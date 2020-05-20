@@ -1,4 +1,4 @@
-"CUP_arifle_AK74M",<br />
+acc_flashlight_pistol,<br />
 10Rnd_127x54_Mag
 16Rnd_9x21_green_Mag,<br />
 acc_flashlight_pistol,<br />
@@ -128,6 +128,7 @@ CUP_arifle_AK74M_railed_desert,<br />
 CUP_arifle_AK74M_railed,<br />
 CUP_arifle_AK74M_top_rail_desert,<br />
 CUP_arifle_AK74M_top_rail,<br />
+CUP_arifle_AK74M,<br />
 CUP_arifle_AKS74_GL,<br />
 CUP_arifle_AKS74,<br />
 CUP_arifle_AKS74U_railed,<br />
