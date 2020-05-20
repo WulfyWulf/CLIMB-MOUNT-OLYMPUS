@@ -105,5 +105,7 @@ Civilian traffic is controlled but not restricted in most areas, a covert approa
 **WEATHER FORECAST**
 <br />
 Clouds and surf: Calm
+<br />
 Visibility: High (>2km at sea level)
+<br />
 Wind: Calm
