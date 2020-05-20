@@ -1,368 +1,368 @@
-["CUP_arifle_AK74M",
-"CUP_arifle_AK74M_top_rail",
-"CUP_arifle_AK74M_desert",
-"CUP_arifle_AK74M_GL",
-"CUP_arifle_AK74M_GL_desert",
-"CUP_arifle_AK74M_GL_top_rail",
-"CUP_arifle_AK74M_GL_top_rail_desert",
-"CUP_arifle_AK74M_top_rail_desert",
-"CUP_arifle_AKS74U",
-"CUP_arifle_AKS74",
-"CUP_arifle_AKS74_GL",
-"CUP_lmg_Pecheneg",
-"CUP_lmg_Pecheneg_desert",
-"CUP_arifle_RPK74M",
-"CUP_arifle_RPK74M_top_rail",
-"CUP_srifle_SVD",
-"CUP_srifle_SVD_des",
-"CUP_srifle_SVD_top_rail",
-"CUP_srifle_SVD_des_top_rail",
-"CUP_launch_RPG7V",
-"CUP_launch_RPG18",
-"launch_O_Vorona_brown_F",
-"CUP_launch_Igla",
-"hgun_Rook40_F",
-"CUP_optic_ekp_8_02",
-"CUP_optic_Eotech533Grey",
-"CUP_optic_Eotech533",
-"CUP_optic_Eotech553_Coyote",
-"CUP_optic_Eotech553_Black",
-"CUP_optic_GOSHAWK",
-"CUP_optic_GOSHAWK_RIS",
-"CUP_optic_Kobra",
-"CUP_optic_LeupoldMk4_25x50_LRT",
-"CUP_optic_LeupoldMk4_25x50_LRT_DESERT",
-"CUP_optic_CompM2_Coyote",
-"CUP_optic_CompM2_Black",
-"CUP_optic_PechenegScope",
-"CUP_optic_PGO7V2",
-"CUP_optic_NSPU",
-"CUP_optic_PSO_1",
-"CUP_optic_PSO_1_AK_open",
-"CUP_optic_PSO_1_AK",
-"CUP_optic_PSO_1_1",
-"CUP_optic_PSO_1_1_open",
-"CUP_optic_PSO_3",
-"CUP_optic_PSO_3_open",
-"CUP_SVD_camo_d",
-"CUP_SVD_camo_g",
-"CUP_SVD_camo_d_half",
-"CUP_SVD_camo_g_half",
-"CUP_acc_MLPLS_Laser",
-"acc_flashlight_pistol",
-"CUP_acc_LLM01_coyote_L",
-"CUP_acc_LLM01_L",
-"CUP_acc_LLM01_desert_L",
-"CUP_acc_ANPEQ_15_Black",
-"CUP_acc_ANPEQ_15",
-"CUP_muzzle_TGPA_desert",
-"CUP_muzzle_TGPA",
-"CUP_muzzle_Bizon",
-"CUP_muzzle_PBS4",
-"CUP_muzzle_snds_KZRZP_SVD",
-"CUP_muzzle_snds_KZRZP_SVD_desert",
-"CUP_muzzle_snds_KZRZP_AK545",
-"CUP_muzzle_snds_KZRZP_AK545_desert",
-"CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M",
-"CUP_10Rnd_762x54_SVD_M",
-"CUP_30Rnd_545x39_AK74M_M",
-"CUP_30Rnd_545x39_AK_M",
-"CUP_30Rnd_545x39_AK74M_desert_M",
-"CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M",
-"CUP_30Rnd_TE1_Green_Tracer_545x39_AK74M_M",
-"CUP_30Rnd_TE1_Green_Tracer_545x39_AK_desert_M",
-"CUP_30Rnd_Subsonic_545x39_AK_M",
-"CUP_30Rnd_Subsonic_545x39_AK74M_M",
-"CUP_45Rnd_TE4_LRT4_Green_Tracer_545x39_RPK74M_M",
-"CUP_60Rnd_TE1_Green_Tracer_545x39_AK74M_M",
-"CUP_60Rnd_545x39_AK74M_M",
-"16Rnd_9x21_green_Mag",
-"Vorona_HE",
-"Vorona_HEAT",
-"ACE_16Rnd_9x19_mag",
-"CUP_Igla_M",
-"CUP_AT13_M",
-"CUP_OG7_M",
-"CUP_PG7VM_M",
-"CUP_PG7VR_M",
-"CUP_RPG18_M",
-"CUP_TBG7V_M",
-"CUP_1Rnd_SMOKE_GP25_M",
-"CUP_1Rnd_SmokeGreen_GP25_M",
-"CUP_1Rnd_SmokeRed_GP25_M",
-"CUP_1Rnd_SmokeYellow_GP25_M",
-"CUP_IlumFlareWhite_GP25_M",
-"CUP_IlumFlareRed_GP25_M",
-"CUP_IlumFlareGreen_GP25_M",
-"CUP_FlareGreen_GP25_M",
-"CUP_FlareRed_GP25_M",
-"CUP_FlareWhite_GP25_M",
-"CUP_FlareYellow_GP25_M",
-"CUP_1Rnd_HE_GP25_M",
-"CUP_H_RUS_6B47_desert",
-"CUP_H_RUS_6B47_goggles_desert",
-"CUP_H_RUS_6B47_headset_goggles_desert",
-"CUP_H_RUS_6B47_headset_desert",
-"CUP_U_O_RUS_KSOR_VDV",
-"CUP_U_O_RUS_KSOR_VDV_gloves_pads",
-"CUP_U_O_RUS_KSOR_VDV_rolled_up",
-"CUP_U_O_RUS_KSOR_VDV_rolled_up_gloves_pads",
-"U_O_FullGhillie_ard",
-"U_O_FullGhillie_sard",
-"U_O_GhillieSuit",
-"CUP_U_O_RUS_M88_MSV_rolled_up",
-"CUP_U_O_RUS_M88_MSV",
-"CUP_H_RUS_ZSH_1_Goggles",
-"CUP_H_RUS_ZSH_1",
-"CUP_V_CZ_NPP2006_des",
-"CUP_V_CZ_NPP2006_nk_des",
-"CUP_V_CZ_NPP2006_ok_des",
-"CUP_V_CZ_NPP2006_co_des",
-"B_AssaultPack_blk",
-"B_AssaultPack_cbr",
-"B_Kitbag_cbr",
-"B_Kitbag_tan",
-"tf_mr3000",
-"CUP_B_Podnos_Gun_Bag",
-"CUP_B_Podnos_Bipod_Bag",
-"CUP_B_RUS_Backpack",
-"CUP_G_Tan_Scarf_Shades",
-"CUP_G_White_Scarf_Shades",
-"CUP_FR_NeckScarf3",
-"CUP_FR_NeckScarf",
-"CUP_FR_NeckScarf2",
-"CUP_FR_NeckScarf5",
-"CUP_FR_NeckScarf4",
-"G_EyeProtectors_F",
-"G_EyeProtectors_Earpiece_F",
-"CUP_G_Grn_Scarf_Shades",
-"CUP_G_Oakleys_Clr",
-"CUP_G_Oakleys_Drk",
-"CUP_G_Oakleys_Embr",
-"CUP_G_Scarf_Face_Blk",
-"CUP_G_Scarf_Face_Grn",
-"CUP_G_Scarf_Face_Red",
-"CUP_G_Scarf_Face_Tan",
-"CUP_G_Scarf_Face_White",
-"CUP_G_PMC_Facewrap_Tan_Glasses_Ember",
-"CUP_G_PMC_Facewrap_Tan_Glasses_Dark",
-"CUP_G_PMC_Facewrap_Tan_Glasses_Dark_Headset",
-"CUP_PMC_Facewrap_Tan",
-"CUP_G_PMC_Facewrap_Black_Glasses_Ember",
-"CUP_G_PMC_Facewrap_Black_Glasses_Dark",
-"CUP_G_PMC_Facewrap_Black_Glasses_Dark_Headset",
-"CUP_PMC_Facewrap_Black",
-"CUP_PMC_Facewrap_Skull",
-"CUP_PMC_Facewrap_Smilie",
-"CUP_G_ESS_BLK_Scarf_Face_White",
-"CUP_G_ESS_KHK_Scarf_Face_Tan",
-"CUP_G_ESS_BLK_Scarf_Face_Red",
-"CUP_G_ESS_BLK_Scarf_Face_Grn",
-"CUP_G_ESS_BLK_Scarf_Face_Blk",
-"CUP_G_ESS_BLK_Scarf_White",
-"CUP_G_ESS_KHK_Scarf_Tan",
-"CUP_G_ESS_BLK_Scarf_Red",
-"CUP_G_ESS_BLK_Scarf_Grn",
-"CUP_G_ESS_BLK_Scarf_Blk",
-"CUP_G_ESS_KHK_Facewrap_White",
-"CUP_G_ESS_RGR_Facewrap_Tropical",
-"CUP_G_ESS_KHK_Facewrap_Tan",
-"CUP_G_ESS_RGR_Facewrap_Skull",
-"CUP_G_ESS_RGR_Facewrap_Ranger",
-"CUP_G_ESS_BLK_Facewrap_Black",
-"CUP_G_ESS_CBR_Facewrap_Red",
-"CUP_G_ESS_KHK",
-"CUP_G_ESS_KHK_Ember",
-"CUP_G_ESS_KHK_Dark",
-"CUP_G_ESS_RGR",
-"CUP_G_ESS_RGR_Ember",
-"CUP_G_ESS_RGR_Dark",
-"CUP_G_ESS_CBR",
-"CUP_G_ESS_CBR_Ember",
-"CUP_G_ESS_CBR_Dark",
-"CUP_G_ESS_BLK",
-"CUP_G_ESS_BLK_Ember",
-"CUP_G_ESS_BLK_Dark",
-"CUP_RUS_Balaclava_grn",
-"CUP_RUS_Balaclava_blk",
-"G_Aviator",
-"CUP_PMC_G_thug",
-"CUP_NVG_HMNVS",
-"CUP_NVG_PVS14",
-"CUP_SOFLAM",
-"CUP_Vector21Nite",
-"Rangefinder",
-"ACE_MX2A",
-"Binocular",
-"ItemMap",
-"ItemCompass",
-"tf_fadak",
-"tf_pnr1000a",
-"ItemWatch",
-"ItemGPS",
-"Chemlight_blue",
-"Chemlight_green",
-"ACE_Chemlight_Orange",
-"Chemlight_red",
-"ACE_Chemlight_IR",
-"ACE_Chemlight_HiYellow",
-"ACE_Chemlight_HiWhite",
-"ACE_Chemlight_HiRed",
-"ACE_Chemlight_HiGreen",
-"ACE_Chemlight_HiBlue",
-"ACE_M14",
-"ACE_Chemlight_UltraHiOrange",
-"ACE_Chemlight_White",
-"Chemlight_yellow",
-"O_R_IR_Grenade",
-"SmokeShell",
-"SmokeShellYellow",
-"SmokeShellRed",
-"SmokeShellPurple",
-"SmokeShellGreen",
-"SmokeShellBlue",
-"SmokeShellOrange",
-"ACE_HandFlare_Yellow",
-"ACE_HandFlare_White",
-"ACE_HandFlare_Red",
-"ACE_HandFlare_Green",
-"DemoCharge_Remote_Mag",
-"SatchelCharge_Remote_Mag",
-"APERSMine_Range_Mag",
-"ACE_FlareTripMine_Mag",
-"CUP_MineE_M",
-"APERSTripMine_Wire_Mag",
-"ClaymoreDirectionalMine_Remote_Mag",
-"APERSBoundingMine_Range_Mag",
-"ACE_wirecutter",
-"ToolKit",
-"ACE_tourniquet",
-"ACE_surgicalKit",
-"ACE_SpottingScope",
-"ACE_splint",
-"ACE_Sandbag_empty",
-"ACE_morphine",
-"ACE_personalAidKit",
-"MineDetector",
-"ACE_MapTools",
-"ACE_Flashlight_XL50",
-"ACE_Clacker",
-"ACE_M26_Clacker",
-"ACE_IR_Strobe_Item",
-"ACE_epinephrine",
-"ACE_EntrenchingTool",
-"ACE_EarPlugs",
-"ACE_DefusalKit",
-"ACE_DeadManSwitch",
-"ACE_Chemlight_Shield",
-"ACE_CableTie",
-"ACE_bodyBag",
-"ACE_bloodIV_500",
-"ACE_bloodIV_250",
-"ACE_bloodIV",
-"ACE_quikclot",
-"ACE_packingBandage",
-"ACE_elasticBandage",
-"ACE_fieldDressing",
-"CUP_arifle_AK103_GL",
-"CUP_arifle_AK103_GL_top_rail",
-"CUP_arifle_AK103_GL_railed",
-"CUP_arifle_AK103_railed",
-"CUP_arifle_AK103_top_rail",
-"CUP_arifle_AK103",
-"CUP_arifle_AK105",
-"CUP_arifle_AK105_top_rail",
-"CUP_arifle_AK105_railed",
-"CUP_arifle_AK74M_railed",
-"CUP_arifle_AK74M_railed_afg",
-"CUP_arifle_AK74M_railed_afg_desert",
-"CUP_arifle_AK74M_railed_desert",
-"CUP_arifle_AK74M_GL_railed",
-"CUP_arifle_AK74M_GL_railed_desert",
-"CUP_arifle_AKS74U_railed",
-"CUP_arifle_AKS74U_top_rail",
-"CUP_arifle_AS_VAL",
-"CUP_arifle_AS_VAL_flash",
-"CUP_arifle_AS_VAL_VFG",
-"CUP_arifle_AS_VAL_top_rail",
-"CUP_arifle_AS_VAL_flash_top",
-"CUP_arifle_AS_VAL_VFG_top_rail",
-"CUP_srifle_ksvk",
-"CUP_arifle_OTS14_GROZA_762_GL",
-"CUP_arifle_OTS14_GROZA_762_Grip",
-"CUP_arifle_OTS14_GROZA_762",
-"CUP_arifle_OTS14_GROZA_GL",
-"CUP_arifle_OTS14_GROZA_Grip",
-"CUP_arifle_OTS14_GROZA",
-"CUP_smg_bizon",
-"CUP_smg_vityaz",
-"CUP_smg_vityaz_vfg",
-"CUP_smg_vityaz_vfg_front_rail",
-"CUP_smg_vityaz_vfg_top_rail",
-"CUP_smg_vityaz_top_rail",
-"CUP_arifle_RPK74M_railed",
-"CUP_arifle_SR3M_Vikhr",
-"CUP_arifle_SR3M_Vikhr_VFG",
-"CUP_arifle_SR3M_Vikhr_top_rail",
-"CUP_arifle_SR3M_Vikhr_VFG_top_rail",
-"CUP_srifle_VSSVintorez",
-"CUP_srifle_VSSVintorez_flash",
-"CUP_srifle_VSSVintorez_VFG",
-"CUP_srifle_VSSVintorez_top_rail",
-"CUP_srifle_VSSVintorez_flash_top",
-"CUP_srifle_VSSVintorez_VFG_top_rail",
-"CUP_acc_ANPEQ_2_grey",
-"CUP_acc_ANPEQ_2_desert",
-"CUP_muzzle_snds_KZRZP_PK_desert",
-"CUP_muzzle_snds_KZRZP_PK",
-"CUP_muzzle_snds_KZRZP_AK762",
-"CUP_muzzle_snds_KZRZP_AK762_desert",
-"CUP_muzzle_snds_groza",
-"CUP_muzzle_snds_SR3M",
-"CUP_H_Ger_Beret_TankCommander_Blk",
-"H_Beret_blk",
-"CUP_H_PMC_Beanie_Black",
-"CUP_H_PMC_Beanie_Headphones_Black",
-"CUP_H_RUS_Altyn_Shield_Up_khaki",
-"CUP_H_RUS_Altyn_Shield_Down_khaki",
-"CUP_H_RUS_Altyn_Goggles_khaki",
-"CUP_H_RUS_Altyn_khaki",
-"CUP_H_RUS_Altyn_Shield_Up",
-"CUP_H_RUS_Altyn_Shield_Down",
-"CUP_H_RUS_Altyn_Goggles",
-"CUP_H_RUS_Altyn",
-"CUP_H_RUS_Altyn_Shield_Up_black",
-"CUP_H_RUS_Altyn_Shield_Down_black",
-"CUP_H_RUS_Altyn_Goggles_black",
-"CUP_H_RUS_Altyn_black",
-"CUP_H_RUS_6B47_SF_headset_desert",
-"CUP_H_RUS_6B47_SF_headset_goggles_desert",
-"CUP_H_RUS_6B47_SF_headset_black",
-"CUP_H_RUS_6B47_SF_headset_goggles_black",
-"CUP_10Rnd_9x39_SP5_VSS_M",
-"CUP_20Rnd_9x39_SP5_GROZA_M",
-"CUP_20Rnd_9x39_SP5_VSS_M",
-"CUP_30Rnd_TE1_Green_Tracer_762x39_AK103_bakelite_M",
-"CUP_30Rnd_762x39_AK103_bakelite_M",
-"CUP_30Rnd_9x19_Vityaz",
-"CUP_30Rnd_9x19AP_Vityaz",
-"CUP_30Rnd_9x39_SP5_VIKHR_M",
-"CUP_30Rnd_762x39_AK47_M",
-"CUP_30Rnd_Subsonic_762x39_AK47_M",
-"CUP_5Rnd_127x108_KSVK_M",
-"CUP_6Rnd_HE_GP25_M",
-"CUP_6Rnd_FlareWhite_GP25_M",
-"CUP_6Rnd_Smoke_GP25",
-"CUP_64Rnd_9x19_Bizon_M",
-"CUP_64Rnd_Green_Tracer_9x19_Bizon_M",
-"CUP_glaunch_6G30",
-"CUP_NVG_PVS15_black",
-"CUP_NVG_PVS15_tan",
-"HandGrenade",
-"arifle_AK12_F",
-"arifle_AK12_arid_F",
-"arifle_AK12_GL_F",
-"arifle_AK12_GL_arid_F",
-"srifle_DMR_04_F",
-"srifle_DMR_04_Tan_F",
+["CUP_arifle_AK74M",<br />
+"CUP_arifle_AK74M_top_rail",<br />
+"CUP_arifle_AK74M_desert",<br />
+"CUP_arifle_AK74M_GL",<br />
+"CUP_arifle_AK74M_GL_desert",<br />
+"CUP_arifle_AK74M_GL_top_rail",<br />
+"CUP_arifle_AK74M_GL_top_rail_desert",<br />
+"CUP_arifle_AK74M_top_rail_desert",<br />
+"CUP_arifle_AKS74U",<br />
+"CUP_arifle_AKS74",<br />
+"CUP_arifle_AKS74_GL",<br />
+"CUP_lmg_Pecheneg",<br />
+"CUP_lmg_Pecheneg_desert",<br />
+"CUP_arifle_RPK74M",<br />
+"CUP_arifle_RPK74M_top_rail",<br />
+"CUP_srifle_SVD",<br />
+"CUP_srifle_SVD_des",<br />
+"CUP_srifle_SVD_top_rail",<br />
+"CUP_srifle_SVD_des_top_rail",<br />
+"CUP_launch_RPG7V",<br />
+"CUP_launch_RPG18",<br />
+"launch_O_Vorona_brown_F",<br />
+"CUP_launch_Igla",<br />
+"hgun_Rook40_F",<br />
+"CUP_optic_ekp_8_02",<br />
+"CUP_optic_Eotech533Grey",<br />
+"CUP_optic_Eotech533",<br />
+"CUP_optic_Eotech553_Coyote",<br />
+"CUP_optic_Eotech553_Black",<br />
+"CUP_optic_GOSHAWK",<br />
+"CUP_optic_GOSHAWK_RIS",<br />
+"CUP_optic_Kobra",<br />
+"CUP_optic_LeupoldMk4_25x50_LRT",<br />
+"CUP_optic_LeupoldMk4_25x50_LRT_DESERT",<br />
+"CUP_optic_CompM2_Coyote",<br />
+"CUP_optic_CompM2_Black",<br />
+"CUP_optic_PechenegScope",<br />
+"CUP_optic_PGO7V2",<br />
+"CUP_optic_NSPU",<br />
+"CUP_optic_PSO_1",<br />
+"CUP_optic_PSO_1_AK_open",<br />
+"CUP_optic_PSO_1_AK",<br />
+"CUP_optic_PSO_1_1",<br />
+"CUP_optic_PSO_1_1_open",<br />
+"CUP_optic_PSO_3",<br />
+"CUP_optic_PSO_3_open",<br />
+"CUP_SVD_camo_d",<br />
+"CUP_SVD_camo_g",<br />
+"CUP_SVD_camo_d_half",<br />
+"CUP_SVD_camo_g_half",<br />
+"CUP_acc_MLPLS_Laser",<br />
+"acc_flashlight_pistol",<br />
+"CUP_acc_LLM01_coyote_L",<br />
+"CUP_acc_LLM01_L",<br />
+"CUP_acc_LLM01_desert_L",<br />
+"CUP_acc_ANPEQ_15_Black",<br />
+"CUP_acc_ANPEQ_15",<br />
+"CUP_muzzle_TGPA_desert",<br />
+"CUP_muzzle_TGPA",<br />
+"CUP_muzzle_Bizon",<br />
+"CUP_muzzle_PBS4",<br />
+"CUP_muzzle_snds_KZRZP_SVD",<br />
+"CUP_muzzle_snds_KZRZP_SVD_desert",<br />
+"CUP_muzzle_snds_KZRZP_AK545",<br />
+"CUP_muzzle_snds_KZRZP_AK545_desert",<br />
+"CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M",<br />
+"CUP_10Rnd_762x54_SVD_M",<br />
+"CUP_30Rnd_545x39_AK74M_M",<br />
+"CUP_30Rnd_545x39_AK_M",<br />
+"CUP_30Rnd_545x39_AK74M_desert_M",<br />
+"CUP_30Rnd_TE1_Green_Tracer_545x39_AK_M",<br />
+"CUP_30Rnd_TE1_Green_Tracer_545x39_AK74M_M",<br />
+"CUP_30Rnd_TE1_Green_Tracer_545x39_AK_desert_M",<br />
+"CUP_30Rnd_Subsonic_545x39_AK_M",<br />
+"CUP_30Rnd_Subsonic_545x39_AK74M_M",<br />
+"CUP_45Rnd_TE4_LRT4_Green_Tracer_545x39_RPK74M_M",<br />
+"CUP_60Rnd_TE1_Green_Tracer_545x39_AK74M_M",<br />
+"CUP_60Rnd_545x39_AK74M_M",<br />
+"16Rnd_9x21_green_Mag",<br />
+"Vorona_HE",<br />
+"Vorona_HEAT",<br />
+"ACE_16Rnd_9x19_mag",<br />
+"CUP_Igla_M",<br />
+"CUP_AT13_M",<br />
+"CUP_OG7_M",<br />
+"CUP_PG7VM_M",<br />
+"CUP_PG7VR_M",<br />
+"CUP_RPG18_M",<br />
+"CUP_TBG7V_M",<br />
+"CUP_1Rnd_SMOKE_GP25_M",<br />
+"CUP_1Rnd_SmokeGreen_GP25_M",<br />
+"CUP_1Rnd_SmokeRed_GP25_M",<br />
+"CUP_1Rnd_SmokeYellow_GP25_M",<br />
+"CUP_IlumFlareWhite_GP25_M",<br />
+"CUP_IlumFlareRed_GP25_M",<br />
+"CUP_IlumFlareGreen_GP25_M",<br />
+"CUP_FlareGreen_GP25_M",<br />
+"CUP_FlareRed_GP25_M",<br />
+"CUP_FlareWhite_GP25_M",<br />
+"CUP_FlareYellow_GP25_M",<br />
+"CUP_1Rnd_HE_GP25_M",<br />
+"CUP_H_RUS_6B47_desert",<br />
+"CUP_H_RUS_6B47_goggles_desert",<br />
+"CUP_H_RUS_6B47_headset_goggles_desert",<br />
+"CUP_H_RUS_6B47_headset_desert",<br />
+"CUP_U_O_RUS_KSOR_VDV",<br />
+"CUP_U_O_RUS_KSOR_VDV_gloves_pads",<br />
+"CUP_U_O_RUS_KSOR_VDV_rolled_up",<br />
+"CUP_U_O_RUS_KSOR_VDV_rolled_up_gloves_pads",<br />
+"U_O_FullGhillie_ard",<br />
+"U_O_FullGhillie_sard",<br />
+"U_O_GhillieSuit",<br />
+"CUP_U_O_RUS_M88_MSV_rolled_up",<br />
+"CUP_U_O_RUS_M88_MSV",<br />
+"CUP_H_RUS_ZSH_1_Goggles",<br />
+"CUP_H_RUS_ZSH_1",<br />
+"CUP_V_CZ_NPP2006_des",<br />
+"CUP_V_CZ_NPP2006_nk_des",<br />
+"CUP_V_CZ_NPP2006_ok_des",<br />
+"CUP_V_CZ_NPP2006_co_des",<br />
+"B_AssaultPack_blk",<br />
+"B_AssaultPack_cbr",<br />
+"B_Kitbag_cbr",<br />
+"B_Kitbag_tan",<br />
+"tf_mr3000",<br />
+"CUP_B_Podnos_Gun_Bag",<br />
+"CUP_B_Podnos_Bipod_Bag",<br />
+"CUP_B_RUS_Backpack",<br />
+"CUP_G_Tan_Scarf_Shades",<br />
+"CUP_G_White_Scarf_Shades",<br />
+"CUP_FR_NeckScarf3",<br />
+"CUP_FR_NeckScarf",<br />
+"CUP_FR_NeckScarf2",<br />
+"CUP_FR_NeckScarf5",<br />
+"CUP_FR_NeckScarf4",<br />
+"G_EyeProtectors_F",<br />
+"G_EyeProtectors_Earpiece_F",<br />
+"CUP_G_Grn_Scarf_Shades",<br />
+"CUP_G_Oakleys_Clr",<br />
+"CUP_G_Oakleys_Drk",<br />
+"CUP_G_Oakleys_Embr",<br />
+"CUP_G_Scarf_Face_Blk",<br />
+"CUP_G_Scarf_Face_Grn",<br />
+"CUP_G_Scarf_Face_Red",<br />
+"CUP_G_Scarf_Face_Tan",<br />
+"CUP_G_Scarf_Face_White",<br />
+"CUP_G_PMC_Facewrap_Tan_Glasses_Ember",<br />
+"CUP_G_PMC_Facewrap_Tan_Glasses_Dark",<br />
+"CUP_G_PMC_Facewrap_Tan_Glasses_Dark_Headset",<br />
+"CUP_PMC_Facewrap_Tan",<br />
+"CUP_G_PMC_Facewrap_Black_Glasses_Ember",<br />
+"CUP_G_PMC_Facewrap_Black_Glasses_Dark",<br />
+"CUP_G_PMC_Facewrap_Black_Glasses_Dark_Headset",<br />
+"CUP_PMC_Facewrap_Black",<br />
+"CUP_PMC_Facewrap_Skull",<br />
+"CUP_PMC_Facewrap_Smilie",<br />
+"CUP_G_ESS_BLK_Scarf_Face_White",<br />
+"CUP_G_ESS_KHK_Scarf_Face_Tan",<br />
+"CUP_G_ESS_BLK_Scarf_Face_Red",<br />
+"CUP_G_ESS_BLK_Scarf_Face_Grn",<br />
+"CUP_G_ESS_BLK_Scarf_Face_Blk",<br />
+"CUP_G_ESS_BLK_Scarf_White",<br />
+"CUP_G_ESS_KHK_Scarf_Tan",<br />
+"CUP_G_ESS_BLK_Scarf_Red",<br />
+"CUP_G_ESS_BLK_Scarf_Grn",<br />
+"CUP_G_ESS_BLK_Scarf_Blk",<br />
+"CUP_G_ESS_KHK_Facewrap_White",<br />
+"CUP_G_ESS_RGR_Facewrap_Tropical",<br />
+"CUP_G_ESS_KHK_Facewrap_Tan",<br />
+"CUP_G_ESS_RGR_Facewrap_Skull",<br />
+"CUP_G_ESS_RGR_Facewrap_Ranger",<br />
+"CUP_G_ESS_BLK_Facewrap_Black",<br />
+"CUP_G_ESS_CBR_Facewrap_Red",<br />
+"CUP_G_ESS_KHK",<br />
+"CUP_G_ESS_KHK_Ember",<br />
+"CUP_G_ESS_KHK_Dark",<br />
+"CUP_G_ESS_RGR",<br />
+"CUP_G_ESS_RGR_Ember",<br />
+"CUP_G_ESS_RGR_Dark",<br />
+"CUP_G_ESS_CBR",<br />
+"CUP_G_ESS_CBR_Ember",<br />
+"CUP_G_ESS_CBR_Dark",<br />
+"CUP_G_ESS_BLK",<br />
+"CUP_G_ESS_BLK_Ember",<br />
+"CUP_G_ESS_BLK_Dark",<br />
+"CUP_RUS_Balaclava_grn",<br />
+"CUP_RUS_Balaclava_blk",<br />
+"G_Aviator",<br />
+"CUP_PMC_G_thug",<br />
+"CUP_NVG_HMNVS",<br />
+"CUP_NVG_PVS14",<br />
+"CUP_SOFLAM",<br />
+"CUP_Vector21Nite",<br />
+"Rangefinder",<br />
+"ACE_MX2A",<br />
+"Binocular",<br />
+"ItemMap",<br />
+"ItemCompass",<br />
+"tf_fadak",<br />
+"tf_pnr1000a",<br />
+"ItemWatch",<br />
+"ItemGPS",<br />
+"Chemlight_blue",<br />
+"Chemlight_green",<br />
+"ACE_Chemlight_Orange",<br />
+"Chemlight_red",<br />
+"ACE_Chemlight_IR",<br />
+"ACE_Chemlight_HiYellow",<br />
+"ACE_Chemlight_HiWhite",<br />
+"ACE_Chemlight_HiRed",<br />
+"ACE_Chemlight_HiGreen",<br />
+"ACE_Chemlight_HiBlue",<br />
+"ACE_M14",<br />
+"ACE_Chemlight_UltraHiOrange",<br />
+"ACE_Chemlight_White",<br />
+"Chemlight_yellow",<br />
+"O_R_IR_Grenade",<br />
+"SmokeShell",<br />
+"SmokeShellYellow",<br />
+"SmokeShellRed",<br />
+"SmokeShellPurple",<br />
+"SmokeShellGreen",<br />
+"SmokeShellBlue",<br />
+"SmokeShellOrange",<br />
+"ACE_HandFlare_Yellow",<br />
+"ACE_HandFlare_White",<br />
+"ACE_HandFlare_Red",<br />
+"ACE_HandFlare_Green",<br />
+"DemoCharge_Remote_Mag",<br />
+"SatchelCharge_Remote_Mag",<br />
+"APERSMine_Range_Mag",<br />
+"ACE_FlareTripMine_Mag",<br />
+"CUP_MineE_M",<br />
+"APERSTripMine_Wire_Mag",<br />
+"ClaymoreDirectionalMine_Remote_Mag",<br />
+"APERSBoundingMine_Range_Mag",<br />
+"ACE_wirecutter",<br />
+"ToolKit",<br />
+"ACE_tourniquet",<br />
+"ACE_surgicalKit",<br />
+"ACE_SpottingScope",<br />
+"ACE_splint",<br />
+"ACE_Sandbag_empty",<br />
+"ACE_morphine",<br />
+"ACE_personalAidKit",<br />
+"MineDetector",<br />
+"ACE_MapTools",<br />
+"ACE_Flashlight_XL50",<br />
+"ACE_Clacker",<br />
+"ACE_M26_Clacker",<br />
+"ACE_IR_Strobe_Item",<br />
+"ACE_epinephrine",<br />
+"ACE_EntrenchingTool",<br />
+"ACE_EarPlugs",<br />
+"ACE_DefusalKit",<br />
+"ACE_DeadManSwitch",<br />
+"ACE_Chemlight_Shield",<br />
+"ACE_CableTie",<br />
+"ACE_bodyBag",<br />
+"ACE_bloodIV_500",<br />
+"ACE_bloodIV_250",<br />
+"ACE_bloodIV",<br />
+"ACE_quikclot",<br />
+"ACE_packingBandage",<br />
+"ACE_elasticBandage",<br />
+"ACE_fieldDressing",<br />
+"CUP_arifle_AK103_GL",<br />
+"CUP_arifle_AK103_GL_top_rail",<br />
+"CUP_arifle_AK103_GL_railed",<br />
+"CUP_arifle_AK103_railed",<br />
+"CUP_arifle_AK103_top_rail",<br />
+"CUP_arifle_AK103",<br />
+"CUP_arifle_AK105",<br />
+"CUP_arifle_AK105_top_rail",<br />
+"CUP_arifle_AK105_railed",<br />
+"CUP_arifle_AK74M_railed",<br />
+"CUP_arifle_AK74M_railed_afg",<br />
+"CUP_arifle_AK74M_railed_afg_desert",<br />
+"CUP_arifle_AK74M_railed_desert",<br />
+"CUP_arifle_AK74M_GL_railed",<br />
+"CUP_arifle_AK74M_GL_railed_desert",<br />
+"CUP_arifle_AKS74U_railed",<br />
+"CUP_arifle_AKS74U_top_rail",<br />
+"CUP_arifle_AS_VAL",<br />
+"CUP_arifle_AS_VAL_flash",<br />
+"CUP_arifle_AS_VAL_VFG",<br />
+"CUP_arifle_AS_VAL_top_rail",<br />
+"CUP_arifle_AS_VAL_flash_top",<br />
+"CUP_arifle_AS_VAL_VFG_top_rail",<br />
+"CUP_srifle_ksvk",<br />
+"CUP_arifle_OTS14_GROZA_762_GL",<br />
+"CUP_arifle_OTS14_GROZA_762_Grip",<br />
+"CUP_arifle_OTS14_GROZA_762",<br />
+"CUP_arifle_OTS14_GROZA_GL",<br />
+"CUP_arifle_OTS14_GROZA_Grip",<br />
+"CUP_arifle_OTS14_GROZA",<br />
+"CUP_smg_bizon",<br />
+"CUP_smg_vityaz",<br />
+"CUP_smg_vityaz_vfg",<br />
+"CUP_smg_vityaz_vfg_front_rail",<br />
+"CUP_smg_vityaz_vfg_top_rail",<br />
+"CUP_smg_vityaz_top_rail",<br />
+"CUP_arifle_RPK74M_railed",<br />
+"CUP_arifle_SR3M_Vikhr",<br />
+"CUP_arifle_SR3M_Vikhr_VFG",<br />
+"CUP_arifle_SR3M_Vikhr_top_rail",<br />
+"CUP_arifle_SR3M_Vikhr_VFG_top_rail",<br />
+"CUP_srifle_VSSVintorez",<br />
+"CUP_srifle_VSSVintorez_flash",<br />
+"CUP_srifle_VSSVintorez_VFG",<br />
+"CUP_srifle_VSSVintorez_top_rail",<br />
+"CUP_srifle_VSSVintorez_flash_top",<br />
+"CUP_srifle_VSSVintorez_VFG_top_rail",<br />
+"CUP_acc_ANPEQ_2_grey",<br />
+"CUP_acc_ANPEQ_2_desert",<br />
+"CUP_muzzle_snds_KZRZP_PK_desert",<br />
+"CUP_muzzle_snds_KZRZP_PK",<br />
+"CUP_muzzle_snds_KZRZP_AK762",<br />
+"CUP_muzzle_snds_KZRZP_AK762_desert",<br />
+"CUP_muzzle_snds_groza",<br />
+"CUP_muzzle_snds_SR3M",<br />
+"CUP_H_Ger_Beret_TankCommander_Blk",<br />
+"H_Beret_blk",<br />
+"CUP_H_PMC_Beanie_Black",<br />
+"CUP_H_PMC_Beanie_Headphones_Black",<br />
+"CUP_H_RUS_Altyn_Shield_Up_khaki",<br />
+"CUP_H_RUS_Altyn_Shield_Down_khaki",<br />
+"CUP_H_RUS_Altyn_Goggles_khaki",<br />
+"CUP_H_RUS_Altyn_khaki",<br />
+"CUP_H_RUS_Altyn_Shield_Up",<br />
+"CUP_H_RUS_Altyn_Shield_Down",<br />
+"CUP_H_RUS_Altyn_Goggles",<br />
+"CUP_H_RUS_Altyn",<br />
+"CUP_H_RUS_Altyn_Shield_Up_black",<br />
+"CUP_H_RUS_Altyn_Shield_Down_black",<br />
+"CUP_H_RUS_Altyn_Goggles_black",<br />
+"CUP_H_RUS_Altyn_black",<br />
+"CUP_H_RUS_6B47_SF_headset_desert",<br />
+"CUP_H_RUS_6B47_SF_headset_goggles_desert",<br />
+"CUP_H_RUS_6B47_SF_headset_black",<br />
+"CUP_H_RUS_6B47_SF_headset_goggles_black",<br />
+"CUP_10Rnd_9x39_SP5_VSS_M",<br />
+"CUP_20Rnd_9x39_SP5_GROZA_M",<br />
+"CUP_20Rnd_9x39_SP5_VSS_M",<br />
+"CUP_30Rnd_TE1_Green_Tracer_762x39_AK103_bakelite_M",<br />
+"CUP_30Rnd_762x39_AK103_bakelite_M",<br />
+"CUP_30Rnd_9x19_Vityaz",<br />
+"CUP_30Rnd_9x19AP_Vityaz",<br />
+"CUP_30Rnd_9x39_SP5_VIKHR_M",<br />
+"CUP_30Rnd_762x39_AK47_M",<br />
+"CUP_30Rnd_Subsonic_762x39_AK47_M",<br />
+"CUP_5Rnd_127x108_KSVK_M",<br />
+"CUP_6Rnd_HE_GP25_M",<br />
+"CUP_6Rnd_FlareWhite_GP25_M",<br />
+"CUP_6Rnd_Smoke_GP25",<br />
+"CUP_64Rnd_9x19_Bizon_M",<br />
+"CUP_64Rnd_Green_Tracer_9x19_Bizon_M",<br />
+"CUP_glaunch_6G30",<br />
+"CUP_NVG_PVS15_black",<br />
+"CUP_NVG_PVS15_tan",<br />
+"HandGrenade",<br />
+"arifle_AK12_F",<br />
+"arifle_AK12_arid_F",<br />
+"arifle_AK12_GL_F",<br />
+"arifle_AK12_GL_arid_F",<br />
+"srifle_DMR_04_F",<br />
+"srifle_DMR_04_Tan_F",<br />
 "10Rnd_127x54_Mag"]
