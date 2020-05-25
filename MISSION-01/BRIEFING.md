@@ -4,7 +4,7 @@
 
 *0500 MAY 5 2019*
 
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01.PNG "m01")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-00/m01.PNG "m01")
 <br />
 ![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01a.PNG "m01a")
 <br />
