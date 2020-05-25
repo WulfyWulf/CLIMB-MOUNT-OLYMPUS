@@ -6,11 +6,11 @@
 
 ![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01.PNG "m01")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/m02.PNG "m02")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01a.PNG "m01a")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/m03.PNG "m03")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01b.PNG "m01b")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/a01.PNG "a01")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01c.PNG "m01c")
 
 <br />
 
