@@ -57,7 +57,7 @@ SECONDARY: <br>
 **OPPOSING FORCES**
 <br />
 
-Expected opposition is moderate. It appears that enemy forces believe that friendly operations immediately preceeding this operation 
+Expected opposition is moderate. 
 
 The main opposition at the airport is expected to be the 2. Motorized Regiment, supported by elements of the 1. Mechanized Regiment. The 2. Motorized Regiment is believed to have suffered moderate to heavy losses due to friendly operations and strikes in the area.
 
