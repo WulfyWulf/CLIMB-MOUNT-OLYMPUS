@@ -1,119 +1,101 @@
-*136. PDSS DETACHMENT, ASSIGNED TO CG MOSKVA*
+*247. GUARDS AIR ASSAULT REGIMENT*
 
-*APPROX 25KM NORTH OF THE REPUBLIC OF MALDEN, MEDITERRANEAN SEA*
+*MORAY ISLAND, 5KM NORTHWEST OF THE REPUBLIC OF MALDEN, MEDITERRANEAN SEA*
 
-*0030 MAY 5 2019*
+*0500 MAY 5 2019*
 
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/m01.PNG "m01")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01.PNG "m01")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/m02.PNG "m02")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01a.PNG "m01a")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/m03.PNG "m03")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01b.PNG "m01b")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/a01.PNG "a01")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-01/m01c.PNG "m01c")
 
 <br />
 
 **BACKGROUND**
 <br />
-The elected government of the Republic of Malden has been overthrown in a probable NATO-backed coup. The former government sought natural gas deliveries and future basing rights that benefited the Russian Federation.
+Your battalion has deployed to Moray Island, an island seized by friendly forces just a few kilometers off the coast of Malden. 
 
-More urgently, several assets of interests to the Russian Federation have been seized following the coup. Russian nationals have been interned by local forces.
-
-Sporadic fighting in Malden continues with small elements of troops loyal to the deposed government fighting coup forces. The new Maldenese government is using this as an excuse to indefinitely hold Russian assets.
-
-The Republic of Malden has ignored multiple ultimatums leading up to this point, and mediation with the United Kingdom, with which the Republic of Malden maintains close relations with, has stalled. The Black Sea Fleet has been redeployed from anchor in Tartus and is patrolling offshore.
-
-The Maldenese Armed Forces have begun mobilizing and are appealing to NATO, of which they are not a member, for military assistance.
-
-Russia has no intention of allowing these repeated offenses to go unpunished.
+You have landed with your helicopters and are awaiting the order to deploy in the initial phases of an assault on Malden.
 
 <br />
 
 **SITUATION**
 <br />
-The small island of Moray, located within the territorial waters of the Republic of Malden (ROM) has already been seized by covert assault. There is no indication that these activities have been discovered on the mainland due to communications jamming during the assault and seizure of the island and its population.
+Special teams have neutralized key threats around the main airport of Malden.
 
-Contact has been made with elements in the Maldenese Defense Force (MDF) that have been remain loyal to the now deposed government that seek to assist in a prompt takeover of the main air and naval stations on the island. Confidence in these forces is high. These assets will be in position to overpower local resistance once friendly infiltration and objectives are completed.
+Your company will be the first wave landing to take control of the airport and key crossroads. Expect the situation to be very fluid, objectives may change quickly once the airport is taken.
 
-Deploy immediately from the landing ship Novocherkassk and land at the the forward staging area on Moray island to await assignment of local transportation to the main island of Malden. 
+A significant amount of the defending forces have already been destroyed. There are independent forces reported to be engaged with enemy forces south of the airport, status of these independent forces is unknown.
 
-Operation will begin at 0200.
+Intelligence has reported that there are Russian nationals being interned at the airport police station. These nationals are a priority extraction if they can be located.
 
 <br />
 
 **OBJECTIVES:**
 <br />
-(А - ANNA) Make contact with separatist forces at Mission Point 1 and secure support and equipment required for completion of further objectives
+PRIMARY: <br>
 
-(Б - BORIS) Neutralize the maritime radio warning station at Mission Point 2
+(А - ANNA) Seize control of the administrative buildings and fuel storage facilities to the south end of the airport at Mission Point 1.
 
-(В - VASILY) Neutralize the air surveillance radar at Mission Point 3
+(Б - BORIS) Coordinate pickup with available transport at Mission Point 2.
 
-(Г - GREGORY) Neutralize the long range mobile SAMs and associated radars at Mission Point 4
+(В - VASILY) Seize the crossroads in Saint Louis at Mission Point 3 and await reinforcement.
 
-(Д - DMITRI) Neutralize the RAF F-35s on their ramps at the BAF Depot at Mission Point 5
+SECONDARY: <br>
 
-(Е - ELENA) Locate and Secure interned Gazprom officials if still present at airport. Do not allow any harm to come to them
+(Г - GREGORY) Locate and secure high value individuals held captive.
 
-(Ж - ZHENYA) Avoid severe damage to runway or support facilities at airport, barring objective radar facilities
+(Д - DMITRI) Respond to any additional objectives or changes in the situation.
 
-(З - ZINAYDA) Neutralize any non-friendly MDF elements that present themselves
 
-(И - IVAN) Avoid politically embarrassing casualties to the local civilian population or BAF personnel
 
 <br />
 
 **OPPOSING FORCES**
 <br />
-The Maldenese Defense Force totals six battalions comprising a brigade-size force. These battalions are referred to as Regiments owing to its heritage as a British possession. They will be referred to by their native identification for this intel.
 
-1. Regiment MDF
-Mechanized infantry battalion. First rate unit equipped with M60A3 MBTs and a mixture of M113 and AAV APCs. This battalion's companies have been dispersed throughout Malden following the coup to secure roads and villages and is constantly changing positions, but has not been seen at the airport within the past week.
+Expected opposition is moderate. It appears that enemy forces believe that friendly operations immediately preceeding this operation 
 
-2. Regiment MDF
-Motorized infantry battalion. First rate unit equipped with the MOWAG Piranha APC. This battalion is concentrated in the area surrounding the airport. Some companies are still in barracks awaiting call to mobilize. HQ is identified at Interest Point 2. It is likely action around the airport will involve elements of this unit.
+The main opposition at the airport is expected to be the 2. Motorized Regiment, supported by elements of the 1. Mechanized Regiment. The 2. Motorized Regiment is believed to have suffered moderate to heavy losses due to friendly operations and strikes in the area.
 
-3. Regiment MDF
-Motorized infantry battalion. Second rate unit equipped with soft skin vehicles only. This battalion's companies are concentrated in the southern port region in Le Port.
+The 4. Airborne Regiment is reported to be active and is deploying to defensive positions across Malden, but their exact disposition is currently unknown.
 
-4. Regiment MDF
-Airborne infantry battalion. First rate unit equipped with S-70 and Bell 205 transport helicopters in its airborne infantry companies. The battalion has an integrated light attack company with MD-500 helicopters with ATGMs. This battalion's companies have dispersed to numerous small sites to act as observation following the coup, with elements still housed at the airport.
+There is a small contingent of the British Armed Forces in the vicinity of the airport. Their status is unknown. They are considered neutral and should be apprehended if encountered.
 
-5. Regiment MDF
-Motorized infantry battalion. Reservist battalion equipped with soft skin vehicles only. This battalion is not yet fully mobilized.
+1. Regiment MDF Mechanized infantry battalion. First rate unit equipped with M60A3 MBTs and a mixture of M113 and AAV APCs. This battalion's companies have been dispersed throughout Malden following the coup to secure roads and villages and is reorganizing on the main coastal road at Dourdan. Slight losses incurred from combat in the vicinity of the airport.<br>
 
-6. Regiment MDF
-Motorized infantry battalion. Reservist battalion equipped with soft skin vehicles only. This battalion is assisting 1. Regiment MDF in securing roads and villages where heavier vehicles are not a priority.
+2. Regiment MDF Motorized infantry battalion. First rate unit equipped with the MOWAG Piranha APC. This battalion is concentrated in the area surrounding the airport. *Moderate* to **heavy** losses incurred from combat in the vicinity of the airport.<br>
 
-The United Kingdom has a small technical team and fighter wing based at the north end of the airport. This consists of a number of pilots and ground crew, as well as a company for security. The BAF operates Malden's air defense systems as part of their defense agreement. To ensure they do not provide complications for the occupation, the BAF's air assets as well as the air defense systems must be destroyed.
+3. Regiment MDF Motorized infantry battalion. Second rate unit equipped with soft skin vehicles only. This battalion's companies are concentrated in the southern port region in Le Port. *Moderate* to **heavy** losses incurred from combat in the vicinity of Le Port.<br>
 
-There are a total of 6 known F-35 air superiority fighters based at the airport, and flights have been testing the airspace around the Black Sea Fleet for the past few days. It is unknown if they will sortie within the next few hours.
+4. Regiment MDF Airborne infantry battalion. First rate unit equipped with S-70 and Bell 205 transport helicopters in its airborne infantry companies. The battalion has an integrated light attack company with MD-500 helicopters with ATGMs. This battalion's companies have dispersed to numerous small sites. Slight losses incurred from combat in the vicinity of the airport.<br>
 
-There are three batteries of air defense systems deployed around Malden, one of which is permanently based at the airport and must be disabled. Each battery has three TELs. These TELs are mobile and will be accompanied by a targeting radar which also must be destroyed.
+5. Regiment MDF Motorized infantry battalion. Reservist battalion equipped with soft skin vehicles only. This battalion is not yet fully mobilized.<br>
 
-At this time it is NOT politically acceptable for the BAF personnel to be harmed. It is strongly encouraged that their assets be destroyed without engaging personnel directly. If possible and necessary, detaining the BAF personnel is acceptable.
-
-In addition to the local military forces, civilian law enforcement is assisting with the control of civilians around road checkpoints and in towns. If local law enforcement attempt to obstruct your objectives, you are free to engage those units as hostiles.
-
-Enemy helicopter patrols are possible threats before or during overt combat. Advise bringing zipties for controlling civilians or BAF personnel.
+6. Regiment MDF Motorized infantry battalion. Reservist battalion equipped with soft skin vehicles only. This battalion is assisting 1. Regiment MDF in securing roads and villages where heavier vehicles are not a priority.
 
 <br />
 
 **FRIENDLY SUPPORT**
 <br />
-Friendly separatist detachment has agreed to wait in reserve or serve as diversionary force before airfield assets are handled. Discuss these plans with friendly forces on site.
+Wing of 2 Mi-24 helicopters will be providing fire support, callsign SKAT.
 
-Once enemy air, air defense, and radar assets are destroyed, friendly air support will be available, flight of two Su-33 fighter bombers armed with precision guided bombs, rockets, and AGMs: callsign ZHATKA.
+Wing of 6 Mi-8 transports will be available for tactical transport and fire support, callsign SKOPA.
 
-Civilian traffic is controlled but not restricted in most areas, a covert approach to objectives using civilian vehicles and clothing may be possible.
+Wing of 4 Su-25s in transit from Syria, will be available after seizure of airport is complete. Callsign GORKA.
 
+A friendly special reconnaissance team is on the ground in the vicinity of the aiport. Their mission is separate from yours and they will be extracting promptly.
+
+There are neutral local forces that are contesting enemy control of the island. There are currently no communications between our battalion and these neutral forces.
 <br />
 
 **WEATHER FORECAST**
 <br />
 Clouds and surf: Calm
 <br />
-Visibility: High (>2km at sea level)
+Visibility: High (>1km at sea level)
 <br />
 Wind: Calm
