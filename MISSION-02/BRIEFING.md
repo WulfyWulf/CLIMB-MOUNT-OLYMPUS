@@ -4,19 +4,17 @@
 
 *1730 MAY 5 2019*
 
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02a.PNG "m01")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02a.PNG "m02a")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02b.PNG "m01a")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02b.PNG "m02b")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02c.PNG "m01b")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02c.PNG "m02c")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02d.PNG "m01c")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02d.PNG "m02d")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02d.PNG "m01d")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02e.PNG "m02e")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02d.PNG "m01e")
-<br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02d.PNG "m01f")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02f.PNG "m02f")
 
 <br />
 
