@@ -20,17 +20,22 @@ Russian nationals that were being interned have been freed and safely transporte
 <br />
 PRIMARY: <br>
 
-(А - ANNA) **COMPLETE** Seize control of the administrative buildings and fuel storage facilities to the south end of the airport at Mission Point 1.
+(А - ANNA) **COMPLETE** <br>
+Seize control of the administrative buildings and fuel storage facilities to the south end of the airport at Mission Point 1.
 
-(Б - BORIS) **CANCELLED** Coordinate pickup with available transport at Mission Point 2.
+(Б - BORIS) **CANCELLED** <br>
+Coordinate pickup with available transport at Mission Point 2.
 
-(В - VASILY) **COMPLETE** Seize the crossroads in Saint Louis at Mission Point 3 and await reinforcement.
+(В - VASILY) **COMPLETE** <br>
+Seize the crossroads in Saint Louis at Mission Point 3 and await reinforcement.
 
 SECONDARY: <br>
 
-(Г - GREGORY) **COMPLETE** Locate and secure high value individuals held captive.
+(Г - GREGORY) **COMPLETE** <br>
+Locate and secure high value individuals held captive.
 
-(Д - DMITRI) **COMPLETE** Respond to any additional objectives or changes in the situation.
+(Д - DMITRI) **COMPLETE** <br>
+Respond to any additional objectives or changes in the situation.
 
 <br />
 
