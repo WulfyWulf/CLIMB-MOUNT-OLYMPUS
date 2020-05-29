@@ -2,7 +2,7 @@
 
 *MALDEN AIRPORT, REPUBLIC OF MALDEN, MEDITERRANEAN SEA*
 
-*1730 MAY 5 2019*
+*1540 MAY 5 2019*
 
 ![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-02/m02a.PNG "m02a")
 <br />
