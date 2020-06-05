@@ -4,13 +4,13 @@
 
 *2230 MAY 5 2019*
 
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/m01.PNG "m01")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-03/m03a.PNG "m01")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/m02.PNG "m02")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-03/m03b.PNG "m01")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/m03.PNG "m03")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-03/m03c.PNG "m01")
 <br />
-![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/a01.PNG "a01")
+![alt text](https://github.com/WulfyWulf/CLIMB-MOUNT-OLYMPUS/blob/master/MISSION-03/m03d.PNG "m01")
 
 <br />
 
@@ -39,6 +39,8 @@ On the way to Mission Point 2, you may encounter enemy forces withdrawing throug
 Civilian refugees are choking the roads and making the enemy withdrawal difficult, this may work to your advantage.
 
 Operation will begin at 2330.
+
+After mission is completed, withdraw and go to ground to await further orders.
 
 <br />
 
